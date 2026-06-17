@@ -25,7 +25,7 @@
 - Android Gradle Plugin 9.2.0;
 - Gradle 9.4.1;
 - JDK 17;
-- minSdk 24, compileSdk 37, targetSdk 37.
+- minSdk 24, compileSdk 36, targetSdk 36.
 
 ## Структура проекта
 
